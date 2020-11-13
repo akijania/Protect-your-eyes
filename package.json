@@ -1,0 +1,16 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "^5.0.7",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "repository": "https://github.com/akijania/protect-your-eyes.git",
+  "author": "Anna Kijania <kijania.anna@gmail.com>"
+}
